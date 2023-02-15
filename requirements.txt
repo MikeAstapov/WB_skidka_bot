@@ -1,0 +1,6 @@
+aiogram==2.21
+aioschedule==0.5.2
+flake8==5.0.4
+requests==2.28.1
+
+
